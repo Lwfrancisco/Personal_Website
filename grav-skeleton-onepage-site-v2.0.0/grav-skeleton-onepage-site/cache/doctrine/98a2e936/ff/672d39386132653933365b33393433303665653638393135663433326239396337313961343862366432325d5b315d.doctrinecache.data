@@ -1,0 +1,14 @@
+1577517930
+a:2:{s:7:"content";s:774:"
+<section id="" class="section modular-hero hero parallax text-light " style="background-image: url('/user/pages/02.home-2/01._hero/Model_3D_Background.jpg');">
+    <div class="image-overlay"></div>
+    <section class="container grid-lg" style="text-align: center">
+        <h1>Logan Francisco</h1>
+<h2>Software Engineer</h2>
+<p class="bg-info">I am a software engineering student at the Oregon Institute of Technology specializing in developing software tools and systems.</p>
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+<p><a href="https://learn.getgrav.org" class="btn btn-primary btn-lg" target="_blank">LinkedIn</a></p>
+    </section>
+    <i id="to-start" class="pulse fa fa-angle-down"></i>
+</section>
+";s:12:"content_meta";N;}

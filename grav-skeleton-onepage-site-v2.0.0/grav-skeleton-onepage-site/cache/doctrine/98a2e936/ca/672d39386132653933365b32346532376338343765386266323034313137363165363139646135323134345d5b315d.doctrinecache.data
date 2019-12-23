@@ -1,0 +1,17 @@
+1577518253
+a:2:{s:7:"content";s:1093:"
+<section id="" class="section modular-hero hero parallax text-light " style="background-image: url('/user/pages/02.home-2/01._hero/Model_3D_Background.jpg');">
+    <div class="image-overlay"></div>
+    <section class="container grid-lg" style="text-align: center">
+        <h1>Logan Francisco</h1>
+<h2>Software Engineer</h2>
+<p class="bg-info">I am a software engineering student at the Oregon Institute of Technology specializing in developing software tools and systems.</p>
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+<div class="col-12">
+    <div class="col-8">[LinkedIn](https://learn.getgrav.org?classes=btn,btn-primary,btn-lg&target=_blank)</div>
+    <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="logan-francisco"><a class="LI-simple-link" href='https://www.linkedin.com/in/logan-francisco?trk=profile-badge'>Logan Francisco</a></div>
+</div>
+    </section>
+    <i id="to-start" class="pulse fa fa-angle-down"></i>
+</section>
+";s:12:"content_meta";N;}

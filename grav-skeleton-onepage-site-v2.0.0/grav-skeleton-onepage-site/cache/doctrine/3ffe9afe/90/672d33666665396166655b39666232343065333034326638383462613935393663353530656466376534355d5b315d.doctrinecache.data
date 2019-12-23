@@ -1,0 +1,13 @@
+1577592573
+a:2:{s:7:"content";s:653:"
+<section id="" class="section modular-hero hero parallax text-light " style="background-image: url('/user/pages/02.home-2/01._hero/Model_3D_Background.jpg');">
+    <div class="image-overlay"></div>
+    <section class="container grid-lg" style="text-align: center">
+        <h1>Logan Francisco</h1>
+<h2>Software Engineer</h2>
+<p class="bg-info">I'm a software engineering student at the Oregon Tech specializing in developing software tools and systems.</p>
+<p><a href="mailto:logan.francisco@oit.edu" class="btn btn-primary btn-lg" target="_blank">Get In Touch</a></p>
+    </section>
+    <i id="to-start" class="pulse fa fa-angle-down"></i>
+</section>
+";s:12:"content_meta";N;}

@@ -1,0 +1,28 @@
+1577591679
+a:2:{s:7:"content";s:1819:"
+<section class="section modular-text  bg-gray">
+    <section class="container grid-lg">
+        <div class="columns right">
+                        <div class="column col-12">
+                <h2>Experience</h2>
+<h4>Software Engineering Intern at NASA Neil A. Armstrong Flight Research Center</h4>
+<p>June 2015 – August 2015</p>
+<ul>
+<li>Developed a data acquisition system for liquid metal strain gauges on flight-ready systems.</li>
+<li>Interfaced between a Raspberry Pi and some number of microcontrollers taking in sensor information.</li>
+<li>Implemented I2C communication and internet communication protocols to transmit data from source to desktop application.</li>
+<li>Desktop application developed using LabView.</li>
+</ul>
+<p>June 2016 – August 2016</p>
+<ul>
+<li>Ported 30-year-old undocumented single-threaded digital signal post-processing code into a highly parallel system designed to run in near-real time on a Graphics Processing Unit (GPU)</li>
+<li>Programmed in CUDA C on the Jetson TX1 platform using ARM CPU cores paired with a power efficient Nvidia Maxwell GPU cores.</li>
+<li>Benchmarked and evaluated feasibility in comparison to ASIC and FPGA alternatives.</li>
+</ul>
+<p>No longer are you a <em>help captive by your CMS</em>. Grav <strong>empowers</strong> you to create anything from a <a href="https://demo.getgrav.org/onepage-skeleton" target="_blank">simple one-page site</a>, to a <a href="https://demo.getgrav.org/blog-skeleton" target="_blank">beautiful blog</a>, to a powerful and feature-rich <a href="https://demo.getgrav.org/shop-skeleton" target="_blank">shop site</a>, to pretty much anything you can dream up!</p>
+<p><a href="https://getgrav.org" class="btn btn-primary btn-lg">Find out more...</a></p>
+            </div>
+                    </div>
+    </section>
+</section>
+";s:12:"content_meta";N;}

@@ -1,0 +1,24 @@
+For LinkedIn Profile Badge:
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="logan-francisco"><a class="LI-simple-link" href='https://www.linkedin.com/in/logan-francisco?trk=profile-badge'>Logan Francisco</a></div>
+
+For button w/link:
+[LinkedIn](https://learn.getgrav.org?classes=btn,btn-primary,btn-lg&target=_blank)
+
+Add GitHub if at all possible. (use GitHub for your Senior Project)
+
+There, I worked with and developed both application-level and embedded linux software for the latest fiber-optic sensing system technologies. I have experience working with both old code and developing new software to accelerate workflows and integrate hardware and software systems.
+
+Eventually: Create a child theme using theme inheritance for everything you friggin modified so when you update the theme it doesn't blow everything up.
+(Maybe back up current theme, and figure out how to do a git diff on all the files???)
+Inexhaustive list:
+    /quark/templates/partials/footer & logo
+    /quark/images/logo folder
+    quark.yaml
+    custom.css (wherever it may be)
+
+
+Perhaps github the inherited theme? Maybe that's all? Not sure lol.....
+
+Hostwinds Order Number: 2598393601

@@ -1,0 +1,17 @@
+title: 'Software Engineer'
+default_lang: en
+author:
+  name: 'Logan Francisco'
+  email: lwfrancisco@gmail.com
+taxonomies:
+  - category
+  - tag
+metadata:
+  description: 'Logan Francisco is a Software Engineering Technology Major at the Oregon Institute of Technology.'
+summary:
+  enabled: true
+  format: short
+  size: 300
+  delimiter: '==='
+blog:
+  route: /blog

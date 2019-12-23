@@ -1,0 +1,45 @@
+<?php
+return [
+    '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
+    'filename' => '/home/logan/workspace/GitHub/Personal_Website/My_Personal_Website/grav-skeleton-onepage-site-v2.0.0/grav-skeleton-onepage-site/user/plugins/error/blueprints.yaml',
+    'modified' => 1575502494,
+    'data' => [
+        'name' => 'Error',
+        'version' => '1.6.2',
+        'description' => 'Displays the error page.',
+        'icon' => 'warning',
+        'author' => [
+            'name' => 'Team Grav',
+            'email' => 'devs@getgrav.org',
+            'url' => 'http://getgrav.org'
+        ],
+        'homepage' => 'https://github.com/getgrav/grav-plugin-error',
+        'keywords' => 'error, plugin, required',
+        'bugs' => 'https://github.com/getgrav/grav-plugin-error/issues',
+        'license' => 'MIT',
+        'form' => [
+            'validation' => 'strict',
+            'fields' => [
+                'enabled' => [
+                    'type' => 'toggle',
+                    'label' => 'PLUGIN_ADMIN.PLUGIN_STATUS',
+                    'highlight' => 1,
+                    'default' => 0,
+                    'options' => [
+                        1 => 'PLUGIN_ADMIN.ENABLED',
+                        0 => 'PLUGIN_ADMIN.DISABLED'
+                    ],
+                    'validate' => [
+                        'type' => 'bool'
+                    ]
+                ],
+                'routes.404' => [
+                    'type' => 'text',
+                    'size' => 'medium',
+                    'label' => 'PLUGIN_ERROR.ROUTE_404',
+                    'default' => '/error'
+                ]
+            ]
+        ]
+    ]
+];

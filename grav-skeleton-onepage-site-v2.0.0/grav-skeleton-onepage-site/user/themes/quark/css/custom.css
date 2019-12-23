@@ -1,0 +1,9 @@
+/* Make list fancy instead of horrid bullet points that EVERYONE is tired of looking at!!! */
+ul.fancy-list {
+    list-style: none;
+}
+ul.fancy-list li:before {
+    font-family: FontAwesome;
+    content: "› ";
+    font-size: 20px;
+}

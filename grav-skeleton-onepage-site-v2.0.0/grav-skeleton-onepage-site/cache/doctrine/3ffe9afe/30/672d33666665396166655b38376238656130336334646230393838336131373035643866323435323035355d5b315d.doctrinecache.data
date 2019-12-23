@@ -1,0 +1,89 @@
+1577613326
+a:2:{s:7:"content";s:5943:"<section class="section modular-features small">
+        <section class="container grid-lg">
+            <div class="frame-box">
+
+                <h1>About Me</h1>
+<h6>Hey! I'm Logan, a software engineering student at the Oregon Institute of Technology with a strong interest in technological advancement and using modern technology in new, innovative ways. I have experience in aerospace as a three-time intern at NASA and a previous project that went on the International Space Station! I strive to work on meaningful projects and have "real" work experience. Oh, and I occasionally hike.</h6>
+<p><img alt="" src="/user/pages/02.home-2/02._highlights/Backpacking2016_Sunset_Landscape.jpg" />
+<strong>Sunset in the Sierra Nevadas, 2016</strong></p>
+<h2>Technologies and Development Skills:</h2>
+
+                <div class="columns">
+                                   <div class="column col-3 col-md-4 col-sm-6">
+                                            <div class="feature-icon">
+                         <i class="fa fa-fw fa fa-fighter-jet"></i>
+                                                     <h6>C</h6>
+                                               </div>
+                                            <div class="feature-content">
+                                                  <p>Experienced in both interfacing with embedded systems as well as the Operating System</p>
+                                               </div>
+                   </div>
+                                   <div class="column col-3 col-md-4 col-sm-6">
+                                            <div class="feature-icon">
+                         <i class="fa fa-fw fa fa-database"></i>
+                                                     <h6>C++</h6>
+                                               </div>
+                                            <div class="feature-content">
+                                                  <p>Used in object-oriented programming and data structures</p>
+                                               </div>
+                   </div>
+                                   <div class="column col-3 col-md-4 col-sm-6">
+                                            <div class="feature-icon">
+                         <i class="fa fa-fw fa fa-cubes"></i>
+                                                     <h6>CUDA C</h6>
+                                               </div>
+                                            <div class="feature-content">
+                                                  <p>Nvidia GPU programming with digital signal processing and Fast Fourier Transforms</p>
+                                               </div>
+                   </div>
+                                   <div class="column col-3 col-md-4 col-sm-6">
+                                            <div class="feature-icon">
+                         <i class="fa fa-fw fa fa-object-ungroup"></i>
+                                                     <h6>Python</h6>
+                                               </div>
+                                            <div class="feature-content">
+                                                  <p>Rapid prototyping and quick calculations with Python!</p>
+                                               </div>
+                   </div>
+                                   <div class="column col-3 col-md-4 col-sm-6">
+                                            <div class="feature-icon">
+                         <i class="fa fa-fw fa fa-puzzle-piece"></i>
+                                                     <h6>Java (Android)</h6>
+                                               </div>
+                                            <div class="feature-content">
+                                                  <p>Used java for Android app development and interfacing with phone sensors and a variety of APIs</p>
+                                               </div>
+                   </div>
+                                   <div class="column col-3 col-md-4 col-sm-6">
+                                            <div class="feature-icon">
+                         <i class="fa fa-fw la-ubuntu"></i>
+                                                     <h6>Linux</h6>
+                                               </div>
+                                            <div class="feature-content">
+                                                  <p>I use Linux as a daily-driver AND embedded Linux for a variety of projects. Familiar with a variety of distros</p>
+                                               </div>
+                   </div>
+                                   <div class="column col-3 col-md-4 col-sm-6">
+                                            <div class="feature-icon">
+                         <i class="fa fa-fw fa fa-money"></i>
+                                                     <h6>ARM</h6>
+                                               </div>
+                                            <div class="feature-content">
+                                                  <p>Familiar with ARM devices such as the Raspberry Pi (from the first generation!) and Beagle Bone</p>
+                                               </div>
+                   </div>
+                                   <div class="column col-3 col-md-4 col-sm-6">
+                                            <div class="feature-icon">
+                         <i class="fa fa-fw fa fa-money"></i>
+                                                     <h6>Git</h6>
+                                               </div>
+                                            <div class="feature-content">
+                                                  <p>Experienced in source control and documentation</p>
+                                               </div>
+                   </div>
+                                </div>
+            </div>
+        </section>
+</section>
+";s:12:"content_meta";N;}

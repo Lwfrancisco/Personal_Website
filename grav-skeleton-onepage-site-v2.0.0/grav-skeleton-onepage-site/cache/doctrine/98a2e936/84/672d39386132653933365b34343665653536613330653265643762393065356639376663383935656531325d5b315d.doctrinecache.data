@@ -1,0 +1,13 @@
+1577514870
+a:2:{s:7:"content";s:694:"
+<section id="" class="section modular-hero hero parallax text-light " style="background-image: url('/user/pages/02.home-2/01._hero/Backpacking2016_Sunset_Landscape.jpg');">
+    <div class="image-overlay"></div>
+    <section class="container grid-lg" style="text-align: center">
+        <h1>Logan Francisco</h1>
+<h2>Software Engineer</h2>
+<div class="bg-dark">I'm a software engineering student at the Oregon Institute of Technology specializing in developing software tools and systems.</div>
+<p><a href="https://learn.getgrav.org" class="btn btn-primary btn-lg" target="_blank">Read the documentation</a></p>
+    </section>
+    <i id="to-start" class="pulse fa fa-angle-down"></i>
+</section>
+";s:12:"content_meta";N;}

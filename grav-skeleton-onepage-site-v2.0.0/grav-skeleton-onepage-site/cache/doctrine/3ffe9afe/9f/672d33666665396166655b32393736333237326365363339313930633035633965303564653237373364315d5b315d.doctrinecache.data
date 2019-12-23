@@ -1,0 +1,37 @@
+1577688988
+a:2:{s:7:"content";s:2179:"
+<section class="section modular-text small">
+    <section class="container grid-lg">
+        <div class="columns left">
+                        <div class="column col-12">
+                <h2>Projects</h2>
+<h4>OwlSat: CubeSat Payload with Space Debris Detection</h4>
+<ul>
+<li>Responsible for the design and development of a CubeSat payload for Oregon’s first satellite (OreSat). Launch Q1 2021.</li>
+<li>Software Team lead. Responsible for the embedded experiment control system as well as the communication system with OreSat's Command System.</li>
+<li>Heavy coordination with interdisciplinary teams involving Mechanical, Software, Embedded, Computer, and Electrical Engineers.</li>
+<li>Currently in active development.</li>
+</ul>
+<h4>Inventify</h4>
+<ul>
+<li>Android application that connects "Inventors" with ideas and "Developers" able to evaluate the prospects of each idea and potentially develop them into fruition.</li>
+<li>The idea behind Inventify is that many people have great ideas, inventions, that they are not technically or financially able to pursue. The platform seeks to provide an easy way to get it out there without requiring self-promotion or technical skills.</li>
+<li>Currently in active development.</li>
+</ul>
+<h4>Landmarked</h4>
+<ul>
+<li>Android application that allows the user to point their phone at a "landmark" (primarily natural, though also including man-made) to both identify and be served information about it.</li>
+<li>Also allowed users to create personalized, custom landmarks for individual use.</li>
+<li>Assisted in algorithm design.</li>
+</ul>
+<h4>International Space Station Science Project Team</h4>
+<p>I hesitate to include this because it was from all the way back in High school, but:</p>
+<ul>
+<li>Software Team Lead. Developed driver software for an experiment testing heat dissipation and performance of graphene-based supercapacitors on the International Space Station.</li>
+<li>Successfully led a group of 3-5 peers in the software team of the experiment to produce functional code, the only team without an accompanying mentor from NASA.</li>
+</ul>
+            </div>
+                    </div>
+    </section>
+</section>
+";s:12:"content_meta";N;}
